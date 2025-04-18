@@ -62,8 +62,6 @@ Supports:
 
 ## 📜 License
 
-This project is for educational purposes. No warranty is provided. Dataset copyright belongs to the original creators.
-
----
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### ✨ Contributions welcome!
